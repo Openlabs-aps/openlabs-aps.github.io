@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "Style your content!"
+title: "OL Style"
 subheadline: "Layouts of Feeling Responsive"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/design/"
+permalink: "/openlabs/"
 ---
 <ul>
     {% for post in site.categories.design %}

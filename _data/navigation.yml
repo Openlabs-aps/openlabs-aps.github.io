@@ -1,63 +1,44 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
-- title: "Templates"
-  url: "/design/"
+- title: "OpenLabs"
+  url: "/openlabs/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  - title: "Chi Siamo"
+    url: "/openlabs/chisiamo/"
+  - title: "Dove Siamo"
+    url: "/openlabs/dovesiamo/"
+  - title: "Calendario"
+    url: "/openlabs/calendario/"
+  - title: "Iscrizione"
+    url: "/openlabs/iscrizione/"
+  - title: "primi passi"
+    url: "/openlabs/primipassi/"
+  - title: "Mailing List"
+    url: "/openlabs/ml/"
 
-- title: "Header Styles"
+- title: "Associazione"
   url: "/headers/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
+  - title: "Assemblea dei Soci"
     url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
+  - title: "Consiglio Direttivo"
     url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: Progetto Scuole
   url: "/documentation/"
   side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+
+- title: LinuxDay
+  url: "/documentation/"
+  side: left
+
+- title: LinuxDa
+  url: "/documentation/"
+  side: left
 
 - title: Blog
   url: "/blog/"
