@@ -141,8 +141,9 @@
 							event.stopPropagation();
 
 						// Check URL.
-							if (!href || href == '#' || href == '')
-								return;
+							if (!href || href == '#' || href == ''){
+								console.log("href vuoto");
+								return;}
 
 						// Hide sidebar.
 							$sidebar.addClass('inactive');
@@ -262,13 +263,12 @@
 			var $menu = $('#menu'),
 				$menu_openers = $menu.children('ul').find('.opener');
 
-				// DEBUG
-				console.log( $menu );
-
 			// Openers.
 				$menu_openers.each(function() {
 
 					var $this = $(this);
+					console.log("this:");
+					console.log($this);
 
 					$this.on('click', function(event) {
 
