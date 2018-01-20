@@ -1,3 +1,22 @@
+# README
+
+Questo è il repository utilizzato per la fase di sviluppo del nuovo sito per [OpenLabs](http://www.openlabs.it).
+Qui includiamo alcune indicazioni sulla struttura del nuovo sito e alcune istruzioni su come creare o modificare contenuti.
+
+## Immagini
+
+Le immagini dei post elencati nella pagina principale devono avere una dimensione predefinita di **416x256** pixels.
+I bannel locali per i post hanno dimensione **1280x416**.
+I minipost visibili sulla sidebar hanno dimensione **288x174**;
+
+## TODO
+
+Cerca nel sorgente le occorrenze della parola **TODO** per capire quali sono le operazioni da fare.
+
+---
+
+Qui sotto il **README** originario del tema Jekyll [Editorial](https://jekyll-themes.com/editorial/).
+
 # (WIP) Editorial - Jekyll Theme
 
 A Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/).

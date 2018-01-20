@@ -25,9 +25,11 @@
                 		<h1>{{ page.title }}</h1>
                 	</header>
 
+                  {% comment %}
                   {% if page.image %}
-                	<span class="image main"><img src="{{site.baseurl}}/assets/images/{{ page.image | absolute_url }}.jpg" alt="" /></span>
+                	<span class="image main"><img src="{{site.baseurl}}/assets/images/{{ page.image | absolute_url }}" alt="" /></span>
                   {% endif %}
+                  {% endcomment %}
 
                 {{ content }}
                 </section>

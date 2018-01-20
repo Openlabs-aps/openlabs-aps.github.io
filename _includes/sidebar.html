@@ -2,12 +2,16 @@
   <div id="sidebar">
     <div class="inner">
 
+
+
       <!-- Search -->
         <section id="search" class="alt">
           <form method="post" action="#">
             <input type="text" name="query" id="query" placeholder="Search" />
           </form>
         </section>
+
+
 
       <!-- Menu -->
         <nav id="menu">
@@ -22,30 +26,31 @@
             <li>
               <span class="opener">Openlabs</span>
               <ul>
-<!--                <li><a href="{{ site.baseurl }}/openlabs/chisiamo.html">Chi siamo</a></li> -->
-                <li><a href="http://www.limulo.net">Chi siamo</a></li>
-
-                <li><a href="#">Dove siamo</a></li>
-                <li><a href="#">Calendario</a></li>
-                <li><a href="#">iscrizione</a></li>
-                <li><a href="#">Primi passi con Linux</a></li>
-                <li><a href="#">Mailing List</a></li>
+                <li><a href="{{ site.baseurl }}{{'/openlabs/chisiamo.html'}}">Chi siamo</a></li>
+                <li><a href="{{ site.baseurl }}{{'/openlabs/dovesiamo.html'}}">Dove siamo</a></li>
+                <li><a href="{{ site.baseurl }}/openlabs/associazione.html">L'associazione</a></li>
+                <li><a href="{{ site.baseurl }}{{'/openlabs/iscrizione.html'}}">Iscrizione</a></li>
+                <li><a href="{{ site.baseurl }}/openlabs/serviziomail.html">Servizio Mail</a></li>
+                <!--<li><a href="#">Calendario</a></li>-->
+                <!--<li><a href="#">Primi passi con Linux</a></li>-->
+                <!--<li><a href="#">Mailing List</a></li>-->
               </ul>
             </li>
 
+            <!--
             <li>
-              <span class="opener">Organi dell'Associazione</span>
+              <span class="opener">L'associazione</span>
               <ul>
-                <li><a href="#">Assemblea degli associati</a></li>
-                <li><a href="#">Consiglio direttivo</a></li>
+                <li><a href="{{ site.baseurl }}/openlabs/organiassociazione.html">Organi</a></li>
+                <li><a href="{{ site.baseurl }}/openlabs/assembleasoci.html">Assemblea dei soci</a></li>
+                <li><a href="{{ site.baseurl }}/openlabs/consigliodirettivo.html">Consiglio direttivo</a></li>
               </ul>
             </li>
+            -->
 
-            <li><a href="#">Progetto Scuole</a></li>
-            <li><a href="#">Linux day</a></li>
-            <li><a href="#">Servizio Mail</a></li>
+            <li><a href="{{ site.baseurl }}/openlabs/progettoscuole.html">Progetto Scuole</a></li>
+            <li><a href="{{ site.baseurl }}/openlabs/linuxday.html">Linux day</a></li>
 
-            <li><a href="{{ site.baseurl }}/generic.html">Generic</a></li>
             <li><a href="{{ site.baseurl }}/elements.html">Elements</a></li>
 
           </ul>
@@ -54,26 +59,47 @@
       <!-- Section -->
         <section>
           <header class="major">
-            <h2>Ante interdum</h2>
+            <h2>Mini Posts</h2>
           </header>
           <div class="mini-posts">
+
+
             <article>
-              <a href="#" class="image"><img src="assets/images/pic07.jpg" alt="" /></a>
-              <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+              <a href="{{site.baseurl}}/openlabs/primipassi.html" class="image">
+                <h2>Primi passi</h2>
+                <img src="{{site.baseurl}}/assets/images/pic07.jpg" alt="" />
+              </a>
+              <p>TODO: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
             </article>
+
+
             <article>
-              <a href="#" class="image"><img src="assets/images/pic08.jpg" alt="" /></a>
-              <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+              <a href="{{site.baseurl}}/openlabs/mailinglist.html" class="image">
+                <h2>Mailing Lists</h2>
+                <img src="{{site.baseurl}}/assets/images/pic08.jpg" alt="" />
+              </a>
+              <p>TODO: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
             </article>
+
+
             <article>
-              <a href="#" class="image"><img src="assets/images/pic09.jpg" alt="" /></a>
-              <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+              <a href="{{site.baseurl}}/openlabs/calendario.html" class="image">
+                <h2>Calendario</h2>
+                <img src="{{site.baseurl}}/assets/images/pic09.jpg" alt="" />
+              </a>
+              <p>TODO: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
             </article>
+
           </div>
+
+          <!--
           <ul class="actions">
             <li><a href="#" class="button">More</a></li>
           </ul>
+          -->
         </section>
+
+
 
       <!-- Section -->
         <section>
@@ -82,7 +108,7 @@
           </header>
           <p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
           <ul class="contact">
-            <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
+            <li class="fa-envelope-o"><a href="mailto:info@openlabs.it">{{ site.email }}</a></li>
             <li class="fa-phone">{{ site.phone }}</li>
             <li class="fa-home">{{ site.street_address }}<br />
             {{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
@@ -92,7 +118,14 @@
 
       <!-- Footer -->
         <footer id="footer">
-          <p class="copyright">&copy; {{ site.title }}. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a>.</p>
+          <p>OPENLABS</br>associazione di promozione sociale</br>
+          CF: {{ site.CF }}</br>IVA: {{ site.PIVA }}</p>
+
+          <p class="copyright">&copy; {{ site.title }}
+          I documenti dell'Associazione Openlabs sono rilasciati sotto licenza <a href="https://creativecommons.org/licenses/by/3.0/it/deed.en_US">Creative Commons Attribution 3.0 Italy License</a>.
+          </p>
+
+          <p>Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a>.</p>
         </footer>
 
     </div>
