@@ -1,69 +1,79 @@
-## You like and use this theme? Than support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
+# (WIP) Editorial - Jekyll Theme
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Phlow&url=https://github.com/Phlow/feeling-responsive&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)
+A Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/).
 
+![Editorial Theme](assets/images/screenshot.jpg "Editorial Theme")
 
-# Newsletter: Stay in Touch for Future Updates
+# How to Use
 
-If you are a webdesigner interested in Jekyll, the static website generator, this little newsletter is for you. I share tutorials, clever code snippets and information about my own Jekyll Themes called [*Feeling Responsive*][7] and [*Simplicity*][8]. Please don't expect weekly emails :)
+For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details,
+or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
+and [creating pages](https://jekyllrb.com/docs/pages/).
 
-[![Subscribe to Jekyll Newsletter](https://phlow.github.io/static/tinyletter_subscribe_button.png)](https://tinyletter.com/feeling-responsive)
+- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!
+- **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file! The `.gitlab-ci.yml` file is only needed for GitLab Pages, so feel free to delete this if you are using GitHub instead.
 
+# Added Features
 
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
+* Add your **social profiles** easily in `_config.yml`.
 
-## A Responsive Jekyll Theme: *Feeling Responsive*
+# Configuration
 
-Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
+You can use the following custom parameters in `_config.yml`.
 
-To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
+## Site
+- `subtitle` sets the text for the lighter colored text next to your site's title.
 
-And what license is *Feeling Responsive* released under? [This one][2].
+## Social
+- `500px_url`
+- `facebook_url`
+- `github_url`
+- `gitlab_url`
+- `googleplus_url`
+- `instagram_url`
+- `linkedin_url`
+- `pinterest_url`
+- `slack_url`
+- `twitter_url`
 
+# Credits
 
+Original README from HTML5 UP:
 
-## Why use this theme?
-
-Feeling Responsive is heavily customizable.
-
-1. Language-Support :)
-2. Optimized for speed and it's responsive.
-3. Built on Foundation Framework.
-4. Six different Headers.
-5. Customizable navigation, footer,...
-
-**[More ›][3]**
-
-
-
-## Changelog
-
-*Feeling Responsive* is in active development. Thank you to everyone who contributed, especially [Róbert Papp][5], [Alexandra von Criegern](https://github.com/plutonik-a) and [Juan Jose Amor Iglesias](https://github.com/jjamor).
-
-**[Read Changelog ›][6]**
-
-
-
-## Video Tutorial
-
-Click the image to [watch the YouTube-Video-Tutorial][4].
-
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
+```
+Editorial by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
+Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
+sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
+page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
+template I'd change it up a little. Enjoy :)
+
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
+
+(* = not included)
+
+AJ
+aj@lkn.io | @ajlkn
 
 
+Credits:
 
+	Demo Images:
+		Unsplash (unsplash.com)
 
+	Icons:
+		Font Awesome (fortawesome.github.com/Font-Awesome)
 
+	Other:
+		jQuery (jquery.com)
+		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+		Misc. Sass functions (@HugoGiraudel)
+		Respond.js (j.mp/respondjs)
+		Skel (skel.io)
+```
 
- [1]: http://phlow.github.io/feeling-responsive/documentation/
- [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
- [3]: http://phlow.github.io/feeling-responsive/info/
- [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
- [5]: https://github.com/TWiStErRob
- [6]: https://phlow.github.io/feeling-responsive/changelog/
- [7]: http://phlow.github.io/feeling-responsive/
- [8]: http://phlow.github.io/simplicity/
- [9]: #
- [10]: #
+Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
