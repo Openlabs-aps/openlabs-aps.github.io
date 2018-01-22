@@ -6,8 +6,15 @@ Qui includiamo alcune indicazioni sulla struttura del nuovo sito e alcune istruz
 ## Immagini
 
 Le immagini dei post elencati nella pagina principale devono avere una dimensione predefinita di **416x256** pixels.
+
 I bannel locali per i post hanno dimensione **1280x416**.
+
 I minipost visibili sulla sidebar hanno dimensione **288x174**;
+
+## Baseurl ?!?
+
+Ecco un [link](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/) per fugare ogni dubbio in merito.
+
 
 ## TODO
 

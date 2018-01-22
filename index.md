@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!-- FEATURE Section -->
+<!-- FEATURE Section-->
 <section>
 
 	<header class="major">
@@ -14,8 +14,8 @@ layout: default
 		<article>
 			<span class="icon fa-diamond"></span>
 			<div class="content">
-				<h3>libertà</h3>
-				<p>TODO: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<h3>Commons</h3>
+				<p>TODO: quacosa su beni comuni, creative commons, etc... Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
 
@@ -24,7 +24,7 @@ layout: default
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
 				<h3>Condivisione</h3>
-				<p>TODO: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<p>TODO: Il sapere è di tutti. Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
 
@@ -32,7 +32,7 @@ layout: default
 		<article>
 			<span class="icon fa-rocket"></span>
 			<div class="content">
-				<h3>Birra</h3>
+				<h3>Le 4 liberta</h3>
 				<p>TODO: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
@@ -41,8 +41,8 @@ layout: default
 		<article>
 			<span class="icon fa-signal"></span>
 			<div class="content">
-				<h3>Qualcos'altro</h3>
-				<p>TODO: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<h3>Cittadinanza digitale</h3>
+				<p>TODO: qualcosa su consapevolezza uso critico. Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
 
