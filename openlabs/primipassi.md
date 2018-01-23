@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Primi Passi con Linux
-image: assets/images/pic11.jpg
+image: assets/images/banner-primipassi.jpg
 ---
 
 TODO: cambia immagine
