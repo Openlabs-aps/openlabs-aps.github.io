@@ -1,10 +1,15 @@
 ---
 layout: page
 title: Progetto Scuole
-image: assets/images/pic11.jpg
+image: assets/images/linuxvaascuola/banner-linuxvaascuola.jpg
 ---
 
 TODO: cambia immagine
+
+
+
+TODO: ecco il [link](http://www.icilariaalpi.gov.it/linux-va-a-scuola/) alla pagina web sul sito dell'Istituto Ilaria Alpi
+
 
 Nel 2016 è iniziata la collaborazione con [BgLUG](https://bglug.it/) per l'implementazione nelle scuole milanesi del progetto [Linux va a Scuola](https://librescuola.org/).
 
