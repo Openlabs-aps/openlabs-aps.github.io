@@ -3,8 +3,6 @@ layout: page
 title: L'associazione
 ---
 
-TODO: aggiorna informazioni
-
 ## Gli Organi dell'associzione
 
 ### Art. 11 dello Statuto
