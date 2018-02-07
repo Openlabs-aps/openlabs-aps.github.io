@@ -15,10 +15,13 @@ I minipost visibili sulla sidebar hanno dimensione **288x174**;
 
 Ecco un [link](https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/) per fugare ogni dubbio in merito.
 
-
 ## TODO
 
 Cerca nel sorgente le occorrenze della parola **TODO** per capire quali sono le operazioni da fare.
+
+## Servire localmente
+
+Utilizzare il comando ```bundle exec jekyll serve```.
 
 ---
 

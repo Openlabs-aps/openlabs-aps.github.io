@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Self-publishing con strumenti di crowdfunding
-category: selfpublishing, crowdfunding
+tag: selfpublishing, crowdfunding
 image: selfpublishing/banner.jpg
 excerpt: Al giorno d'oggi, sia i lettori forti che quelli un po' meno in forma sanno che sfogliare le pagine di un libro cartaceo non è l'unico modo per appassionarsi ad una nuova storia, imparare qualche nuova ricetta di cucina o seguire le istruzioni di un manuale. A prescindere dal formato, tradizionale cartaceo o digitale, avete mai pensato che su quello scaffale, reale o virtuale che sia, potrebbe esserci il Vostro libro? Un libro scritto da voi?
 ---

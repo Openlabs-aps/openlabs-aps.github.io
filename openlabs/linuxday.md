@@ -1,19 +1,14 @@
 ---
 layout: page
 title: Linux Day
-image: assets/images/pic11.jpg
+image: assets/images/linuxday/banner-linuxday.jpg
 ---
 
-TODO: cambia immagine
-
-TODO: redirect su sito ufficiale linux day e linux day milano
+OpenLabs è impegnato nell'organizzazione del [Linux Day](http://www.linuxday.it/) Milano, edizione milanese della principale manifestazione italiana dedicata a GNU/Linux, al software libero, alla cultura aperta e alla condivisione.
 
 <hr class="major" />
 
-http://linuxdaymilano.org/2017/
-http://www.linuxday.it/
-
 ## Le varie edizioni
 
-* [edizione 2017](http://linuxdaymilano.org/2017/)
-* [edizione 2016](http://linuxdaymilano.org/2016/)
+* [edizione 2017](http://linuxdaymilano.org/2017/);
+* [edizione 2016](http://linuxdaymilano.org/2016/);
