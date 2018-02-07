@@ -6,11 +6,12 @@ image: assets/images/pic11.jpg
 
 TODO: aggiorna informazioni
 
-**Openlabs** è un'associazione senza fini di lucro, che ha come obiettivo il facilitare e sostenere la diffusione di Linux e di tutto il software libero, senza trascurare il campo del Creative Commons.
+**Openlabs** è un'associazione senza fini di lucro che si pone come obiettivo la promozione di un utilizzo consapevole degli strumenti informatici. 
+L'associazione è attiva nel sostenere la diffusione di software libero e dei concetti etici più generali ad esso legati, che abbracciano anche il campo dei Creative Commons. 
 
-In sostanza l'associazione sostiene la libera circolazione delle idee e dei prodotti dell'intelletto.
+L' associazione sostiene la libera circolazione ed espressione delle idee e dei prodotti dell'intelletto.
 
-Organizziamo corsi di vario tipo:
+Alcuni corsi proposti da Openlabs:
 
 * **Linux base**: non prevede conoscenze specifiche di questo sistema operativo. E' invece richiesta una minima pratica e conoscenza dell'uso del computer.
 * **Linux intermedio**: Il corso intermedio ha lo scopo di guidare nella migrazione verso Linux persone già competenti nell'uso del computer utilizzando Windows
@@ -21,7 +22,7 @@ Organizziamo corsi di vario tipo:
 
 I corsi si tengono presso la sede del Laboratorio di Quartiere della zona 4 che si trova in via Mompiani 5
 
-Oltre ai corsi Openlabs ha anche **gruppi di lavoro** che, riunendosi alla sera, approfondiscono temi come **Android**, la **Wiimote**, **Debian**, ecc.
+Oltre ai corsi Openlabs offre anche **gruppi di lavoro** che, riunendosi alla sera, approfondiscono temi come **Android**, la **Wiimote**, **Debian**, ecc.
 
 L'associazione organizza anche serate a tema dedicate ad argomenti inerenti il nostro settore di interesse, come le presentazioni delle nuove distribuzioni, quando escono o la trattazione di temi specifici inerenti il software libero.
 

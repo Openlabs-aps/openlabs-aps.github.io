@@ -4,8 +4,6 @@ title: Primi Passi con Linux
 image: assets/images/banner-primipassi.jpg
 ---
 
-TODO: cambia immagine
-
 Spesso riceviamo email di persone che vorrebbero avvicinarsi a Linux e al software libero, ma non sanno dove cominciare e chiedono indicazioni su corsi, guide online, manuali, ...
 
 Abbiamo raccolto in questa pagina le informazioni che quasi sempre abbiamo inserito nelle risposte.

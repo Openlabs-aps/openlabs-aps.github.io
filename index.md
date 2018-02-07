@@ -15,7 +15,7 @@ layout: default
 			<span class="icon fa-diamond"></span>
 			<div class="content">
 				<h3>Commons</h3>
-				<p>TODO: quacosa su beni comuni, creative commons, etc... Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<p>I beni comuni sono quei beni condivisi da una comunità. Il termine è legato al concetto di condivisione e comunione e lo si ritrova anche all'interno della moderna cultura digitale ed informatica. Sono beni di tutti da difendere e diffondere.</p>
 			</div>
 		</article>
 
@@ -24,7 +24,7 @@ layout: default
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
 				<h3>Condivisione</h3>
-				<p>TODO: Il sapere è di tutti. Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<p><i>"Chi ricava un'idea da me, ricava conoscenza senza diminuire la mia: come chi accende la sua condela con la mia riceve luce senza lasciarmi al buio."</i> - Thomas Jefferson - <br/> Il sapere è di tutti e la conoscenza nasce sempre dalla condivisione.</p>
 			</div>
 		</article>
 
@@ -33,7 +33,12 @@ layout: default
 			<span class="icon fa-rocket"></span>
 			<div class="content">
 				<h3>Le 4 liberta</h3>
-				<p>TODO: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<p>Il “Software libero” è software che rispetta <b>la libertà</b> degli utenti e la comunità.<br/> Un programma è software libero se gli utenti del programma godono delle quattro libertà fondamentali:<br/><ul>
+					<li>Libertà di <b>eseguire</b> il programma come si desidera, per qualsiasi scopo (libertà 0).</li>
+					<li>Libertà di <b>studiare</b> come funziona il programma e di modificarlo in modo da adattarlo alle proprie necessità (libertà 1). L'accesso al codice sorgente ne è un prerequisito.</li>
+					<li>Libertà di <b>ridistribuire</b> copie in modo da aiutare il prossimo (libertà 2).</li>
+					<li>Libertà di <b>migliorare</b> il programma e distribuirne pubblicamente i miglioramenti da voi apportati (e le vostre versioni modificate in genere), in modo tale che tutta la comunità ne tragga beneficio (libertà 3). L'accesso al codice sorgente ne è un prerequisito.</li></ul>
+				</p>
 			</div>
 		</article>
 
@@ -42,7 +47,7 @@ layout: default
 			<span class="icon fa-signal"></span>
 			<div class="content">
 				<h3>Cittadinanza digitale</h3>
-				<p>TODO: qualcosa su consapevolezza uso critico. Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<p>L'uso critico della rete e degli strumenti digitali e informatici permette di agire consapevolmente nel mondo moderno. Il software libero favorisce lo sviluppo di utilizzi virtuosi della tecnologia in virtù della sua qualità di trasparenza e rispetto delle libertà individuali dei suoi utilizzatori. Saper agire in maniera competente nel mondo complesso contemporaneo non è più solo un'opzione, ma diventa necessità per proteggere i beni (fisici e intellettuali) di tutti.</p>
 			</div>
 		</article>
 
