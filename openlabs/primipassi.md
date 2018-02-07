@@ -62,7 +62,7 @@ Organizziamo periodicamente serate di presentazione, laboratori di approfondimen
 Sottoporre una domanda o un caso a un pubblico di esperti e appassionati suscita spesso contributi utilissimi.
 Openlabs è presente online con:
 
-* [mailing list]({{site.baseurl}}/openlabs/mailinglist.html) TODO
+* [mailing list]({{site.baseurl}}/openlabs/mailinglist.html)
 * [gruppo Facebook](https://www.facebook.com/groups/30782443871/)
 * [gruppo LinkedIn](https://www.linkedin.com/groups/8249677/profile)
 * [profilo Twitter](https://twitter.com/Openlabs_mi)

@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Chi Siamo
-image: assets/images/pic11.jpg
+image: assets/images/chisiamo/banner-chisiamo.jpg
 ---
 
-TODO: aggiorna informazioni
-
-**Openlabs** è un'associazione senza fini di lucro che si pone come obiettivo la promozione di un utilizzo consapevole degli strumenti informatici. 
-L'associazione è attiva nel sostenere la diffusione di software libero e dei concetti etici più generali ad esso legati, che abbracciano anche il campo dei Creative Commons. 
+**Openlabs** è un'associazione senza fini di lucro che si pone come obiettivo la promozione di un utilizzo consapevole degli strumenti informatici.
+L'associazione è attiva nel sostenere la diffusione di software libero e dei concetti etici più generali ad esso legati, che abbracciano anche il campo dei Creative Commons.
 
 L' associazione sostiene la libera circolazione ed espressione delle idee e dei prodotti dell'intelletto.
 

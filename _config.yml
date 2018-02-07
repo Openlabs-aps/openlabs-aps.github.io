@@ -8,7 +8,7 @@ description: A place like home
 baseurl: ""
 url: "http://127.0.0.1:4000/openlabs-website-restyle-2018/"
 author: OpenLabs
-street_address: 1234 Somewhere Road TODO
+street_address: TODO 1234 Somewhere Road
 city: Nashville
 state: TN
 zip_code: 55555

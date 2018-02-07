@@ -3,13 +3,14 @@ layout: page
 title: Iscrizione
 ---
 
+Per iscriverti all'associazione clicca questo [link](https://docs.google.com/forms/viewform?id=1aHhwI3-p3wuvfAuTF-9bX4wUNT_pcOmoNoeQWz1Bhig)
+
+{% comment %}
 TODO: inserisci testo.
 
 TODO: inserisci link al modulo iscrizione Google Form, oppure embeddalo direttamente qui.
 [Google Form iscrizione](https://docs.google.com/forms/viewform?id=1aHhwI3-p3wuvfAuTF-9bX4wUNT_pcOmoNoeQWz1Bhig)
 
-
-{% comment %}
 <!-- Form -->
   <h3>Form</h3>
 

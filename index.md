@@ -33,11 +33,13 @@ layout: default
 			<span class="icon fa-rocket"></span>
 			<div class="content">
 				<h3>Le 4 liberta</h3>
-				<p>Il “Software libero” è software che rispetta <b>la libertà</b> degli utenti e la comunità.<br/> Un programma è software libero se gli utenti del programma godono delle quattro libertà fondamentali:<br/><ul>
+				<p>Il “Software libero” è software che rispetta <b>la libertà</b> degli utenti e la comunità.<br/> Un programma è software libero se gli utenti del programma godono delle quattro libertà fondamentali: <b>eseguire</b>, <b>studiare</b>, <b>ridistribuire</b> e <b>migliorare</b>.
+				<!--<br/><ul>
 					<li>Libertà di <b>eseguire</b> il programma come si desidera, per qualsiasi scopo (libertà 0).</li>
 					<li>Libertà di <b>studiare</b> come funziona il programma e di modificarlo in modo da adattarlo alle proprie necessità (libertà 1). L'accesso al codice sorgente ne è un prerequisito.</li>
 					<li>Libertà di <b>ridistribuire</b> copie in modo da aiutare il prossimo (libertà 2).</li>
-					<li>Libertà di <b>migliorare</b> il programma e distribuirne pubblicamente i miglioramenti da voi apportati (e le vostre versioni modificate in genere), in modo tale che tutta la comunità ne tragga beneficio (libertà 3). L'accesso al codice sorgente ne è un prerequisito.</li></ul>
+					<li>Libertà di <b>migliorare</b> il programma e distribuirne pubblicamente i miglioramenti da voi apportati (e le vostre versioni modificate in genere), in modo tale che tutta la comunità ne tragga beneficio (libertà 3). L'accesso al codice sorgente ne è un prerequisito.</li>
+					</ul>-->
 				</p>
 			</div>
 		</article>

@@ -3,9 +3,11 @@ layout: page
 title: Dove Siamo
 ---
 
+{% comment %}
 TODO: aggiungi mappa openstreetmap
 
 TODO: aggiorna dati
+{% endcomment %}
 
 Openlabs è nata e opera a Milano; le attività sono ospitate presso strutture di terzi, che di volta in volta condividono lo scopo della singola iniziativa e rendono disponibili i locali.
 
